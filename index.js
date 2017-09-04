@@ -18,7 +18,7 @@ var request_data = {
 	//url: 'https://na4.smartcommunications.cloud/one/',
     method: 'POST',
     data: {
-      name: 'Oauthfolder2',
+      name: 'Oauthfolder1',
 	  parentId: '157622073'	  
     },
 };
